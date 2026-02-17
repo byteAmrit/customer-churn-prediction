@@ -2,7 +2,7 @@
 <p align="center"> <img src="https://img.shields.io/badge/Machine%20Learning-Random%20Forest-blue"/> <img src="https://img.shields.io/badge/Deployment-Streamlit%20Cloud-red"/> <img src="https://img.shields.io/badge/Python-3.x-green"/> <img src="https://img.shields.io/badge/Status-Live-success"/> </p>
 🌐 Live Demo
 
-👉 Open Streamlit App
+👉 **[Open Streamlit App](https://customer-churn-prediction-aabou6unsgc4wnqvejubdh.streamlit.app/)**
 
 📌 Project Overview
 
